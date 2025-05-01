@@ -32,5 +32,5 @@ Hello, I'm **Ahmed Ali**, a passionate AI and Data Science practitioner and rese
 - Coursera: [SQL for Data Science](https://pern-my.sharepoint.com/:b:/g/personal/m21f0034ai010_fecid_paf-iast_edu_pk/ETWRSgBWWFFOpkuDn4kSslABvaKgpUDPQ5oD0DBfM4YIeQ)
 
 ### Languages 🗣️
-Urdu (Native)
-English (C1)
+- Urdu (Native)
+- English (C1)
