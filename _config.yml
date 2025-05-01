@@ -69,7 +69,7 @@ plugins:
 
 author:
   name   : "Ahmed Ali"
-  avatar : "/assets/images/picture.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "AI & Data Science Practitioner."
   links:
   - label: "LinkedIn"
