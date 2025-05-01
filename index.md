@@ -16,7 +16,7 @@ I specialize in delivering impactful solutions using Microsoft Azure, Power BI, 
 
 ## 💼 Professional Highlights
 
-- **Data Analyst & Trainer** at Advanced Telecom Services (USA – Remote)  
+- **Data Analyst & Trainer** at [Advanced Telecom Services](https://www.atsailab.com/) (USA – Remote)  
   Delivering data-driven insights and hands-on data science training using Microsoft Azure and Power BI.
   
 - **Microsoft Azure Training Instructor** (NAVTTC – Pakistan)  
