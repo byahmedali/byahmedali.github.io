@@ -6,7 +6,7 @@ collection: projects
 permalink: /projects/us-transit-ridership/
 author_profile: false
 header:
-  teaser: /assets/images/project01.png  # (optional teaser image)
+  teaser: /assets/images/project01.png
 tags: [Power BI, Data Visualization, Azure, Public Transit, Data Analytics]
 date: 2024-03-15
 ---
