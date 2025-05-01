@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## 👋 Welcome
+## 👋 Hello, I am Ahmed Ali
 
 I'm **Ahmed Ali**, a passionate AI and Data Science practitioner from Abbottabad, Pakistan. With a strong academic foundation and hands-on experience in AI, machine learning, and cloud-based data solutions, I aim to bridge the gap between complex data systems and actionable insights that serve the public good.
 
@@ -65,4 +65,4 @@ CGPA: 3.20 / 4.0
 ---
 
 Feel free to [connect with me on LinkedIn](http://www.linkedin.com/in/byahmedali) or check out my [Google Scholar profile](https://scholar.google.com/citations?user=YSRvNhoAAAAJ).  
-📬 **Email**: byahmedali@gmail.com 
+📬 **Email**: byahmedali@gmail.com
