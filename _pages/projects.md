@@ -1,6 +1,10 @@
 ---
+layout: collection
 title: "Projects"
 permalink: /projects/
-layout: posts
-author_profile: true
+collection: _posts
+entries_layout: grid
+classes: wide
 ---
+
+Here’s a selection of my featured projects. Click on any project to read the full case study and technical breakdown.
