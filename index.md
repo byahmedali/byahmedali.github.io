@@ -1,10 +1,8 @@
 ---
 layout: single
 author_profile: true
-title: ABC
+title: Welcome to my personal website!
 ---
-
-## Welcome to my personal website!
 
 ### About me 👋
 Hello, I'm **Ahmed Ali**, a passionate AI and Data Science practitioner and researcher from Abbottabad, Pakistan. I provide intelligent data-driven solutions to the societal problems. Currently working as a Data Analyst at [ATS AI Lab](https://www.atsailab.com/).
