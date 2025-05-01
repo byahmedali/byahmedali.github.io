@@ -5,6 +5,7 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
+author_profile: true
 ---
 
-Here’s a selection of my featured projects. Click on any project to read the full case study and technical breakdown.
+Here’s a collection of my featured projects. Click on any project to dive into detailed descriptions and live demonstrations.
