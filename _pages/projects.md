@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: splash
 title: "Projects"
 permalink: /projects/
 collection: projects
