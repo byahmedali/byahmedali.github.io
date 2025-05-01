@@ -1,9 +1,7 @@
 ---
 title: "GI Disease Classifier"
 excerpt: "A deep learning-powered web application that classifies gastrointestinal diseases from endoscopic images with 98% accuracy."
-header:
-  image: AppUI.png
-  teaser: AppUI.png
+teaser: AppUI.png
 categories:
   - Projects
 tags:
