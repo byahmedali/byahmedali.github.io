@@ -4,11 +4,10 @@ excerpt: "An interactive Power BI dashboard visualizing public transit ridership
 layout: single
 collection: projects
 permalink: /projects/us-transit-ridership/
-read_time: true
-author_profile: false
+author_profile: true
 header:
-  teaser: /assets/images/us-transit-teaser.png  # (optional teaser image)
-  overlay_image: /assets/images/us-transit-header.png  # (optional overlay header)
+  teaser: /assets/images/project01.png  # (optional teaser image)
+  overlay_image: /assets/images/project01.png  # (optional overlay header)
 tags: [Power BI, Data Visualization, Azure, Public Transit, Data Analytics]
 date: 2024-03-15
 ---
