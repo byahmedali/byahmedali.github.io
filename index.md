@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+title: ABC
 ---
 
 ## Welcome to my personal website!
