@@ -65,28 +65,28 @@ author:
   bio    : "AI & Data Science Practitioner."
   links:
   - label: "LinkedIn"
-    icon: "fa-brands fa-linkedin"
+    icon: "fa-brands fa-linkedin" 
     url: "https://www.linkedin.com/in/byahmedali/"
   - label: "GitHub"
     icon: "fa-brands fa-github"
     url: "https://github.com/byahmedali"
   - label: "Google Scholar"
-    icon: "fa-brands fa-google"
+    icon: "fa-brands fa-google-scholar"
     url: "https://scholar.google.com/citations?user=YSRvNhoAAAAJ&hl"
 
 
 footer:
   links:
   - label: "LinkedIn"
-    icon: "fa-brands fa-linkedin"
+    icon: "fa-brands fa-linkedin" 
     url: "https://www.linkedin.com/in/byahmedali/"
   - label: "GitHub"
     icon: "fa-brands fa-github"
     url: "https://github.com/byahmedali"
   - label: "Google Scholar"
-    icon: "fa-brands fa-google"
+    icon: "fa-brands fa-google-scholar"
     url: "https://scholar.google.com/citations?user=YSRvNhoAAAAJ&hl"
-    
+
 defaults:
   # _posts
   - scope:
