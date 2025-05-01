@@ -30,3 +30,7 @@ Hello, I'm **Ahmed Ali**, a passionate AI and Data Science practitioner and rese
 - Microsoft Certified: [Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AhmedAli-4000/7775EF6A9C316366?sharingId=653AB47E79944054)
 - Nvidia DLI: [Fundamentals of Deep Learning](https://pern-my.sharepoint.com/:b:/g/personal/m21f0034ai010_fecid_paf-iast_edu_pk/EfFlf6IXHWtFqoOcaP1IY0EBZTQjFu01T_dCoEusZeTCfA)
 - Coursera: [SQL for Data Science](https://pern-my.sharepoint.com/:b:/g/personal/m21f0034ai010_fecid_paf-iast_edu_pk/ETWRSgBWWFFOpkuDn4kSslABvaKgpUDPQ5oD0DBfM4YIeQ)
+
+### Languages 🗣️
+Urdu (Native)
+English (C1)
