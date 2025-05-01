@@ -11,17 +11,15 @@ tags:
   - Medical AI
   - Computer Vision
   - Streamlit
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 ## Project Overview
 
 The Gastrointestinal Diseases Classifier is a web-based application that leverages deep learning to assist medical professionals in identifying three common GI tract conditions from endoscopic images. Using a fine-tuned InceptionResNetV2 model, it achieves 98% accuracy in classifying Esophagitis, Polyps, and Ulcerative Colitis.
 
-{% include video id="gidiseaseclassifier.streamlit.app" provider="iframe" %}
-
-[Try the live demo](https://gidiseaseclassifier.streamlit.app/){: .btn .btn--primary .btn--large}
+[Try the live demo](https://gidiseaseclassifier.streamlit.app/)
 
 ## Features
 
@@ -72,5 +70,6 @@ The model demonstrates robust performance across all three classes:
 3. **Research Applications**: Useful for large-scale analysis of endoscopic images
 
 ## Links
-[GitHub Repository](https://github.com/byahmedali/GIDiseaseClassifier){: .btn .btn--info}
-[Live Demo](https://gidiseaseclassifier.streamlit.app/){: .btn .btn--success}
+[GitHub Repository](https://github.com/byahmedali/GIDiseaseClassifier)
+
+[Live Demo](https://gidiseaseclassifier.streamlit.app/)
