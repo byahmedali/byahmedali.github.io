@@ -3,10 +3,10 @@ title: "USA National Transit Data – Monthly Ridership Trends"
 excerpt: "An interactive Power BI dashboard visualizing public transit ridership trends across the USA, highlighting patterns and insights from the National Transit Dataset."
 layout: single
 collection: projects
-permalink: /projects/us-transit-ridership/
+permalink: /projects/usa-national-transit/
 author_profile: true
 header:
-  teaser: /assets/images/teaser-p2.png
+  teaser: /assets/images/teaser-p3.png
 ---
 
 ### 📊 Project Overview
@@ -22,7 +22,7 @@ This project presents an interactive Power BI dashboard built from the [National
 
 You can interact with the live dashboard below:
 
-<iframe title="US Transit Data" width="100%" src="https://app.powerbi.com/view?r=eyJrIjoiNjY1Zjg5ZTQtYzkzMC00NTlmLWI1YjItNDVmMDg0ZmRlODE4IiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="US Transit Data" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNjY1Zjg5ZTQtYzkzMC00NTlmLWI1YjItNDVmMDg0ZmRlODE4IiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-### 🙋‍♂️ Acknowledgement
+### ✅ Acknowledgement
 This project is a part ATS projects catalog, and has been completed in collaboration with my colleague, Abdur Rehman.

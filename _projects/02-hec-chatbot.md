@@ -1,11 +1,12 @@
 ---
-title: "RAG Chatbot"
-excerpt: "A RAG-based Generative AI chatbot using open source models."
-date: 2025-01-01
+title: "HEC Chat Assistant"
+excerpt: "A deep learning-powered web application that classifies gastrointestinal diseases from endoscopic images with 98% accuracy."
 layout: single
+collection: projects
+permalink: /projects/gi-disease-classifier/
 author_profile: true
-read_time: false
-tags: [Generative AI, Azure, Llama-3]
+header:
+  teaser: /assets/images/teaser-p2.png
 ---
 
 ## Overview
