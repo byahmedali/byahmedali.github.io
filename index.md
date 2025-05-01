@@ -8,7 +8,7 @@ title: Welcome to my personal website!
 Hello, I'm **Ahmed Ali**, a passionate AI and Data Science practitioner and researcher from Abbottabad, Pakistan. I provide intelligent data-driven solutions to the societal problems. Currently working as a Data Analyst at [ATS AI Lab](https://www.atsailab.com/).
 - **Qualification**: MS in Artificial Intelligence from [PAF-IAST](https://paf-iast.edu.pk/) (CGPA: 3.92/4.0) 🎓
 - **Research Interests**: Applied AI & Data Science, Generative AI, NLP, Computer Vision 🔍
-- **Hobbies**: I love to travel & photograph Allah's creation 
+- **Hobbies**: I love to travel & photograph Allah's creation 📸
 
 ###  Experience Highlights 💼
 - Data Analyst & Trainer @ [ATS AI Lab](https://www.atsailab.com/) (USA – Remote)    
