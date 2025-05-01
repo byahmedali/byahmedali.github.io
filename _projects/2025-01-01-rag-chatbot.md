@@ -1,10 +1,10 @@
 ---
 title: "RAG Chatbot"
-excerpt: "A RAG-based Generative AI chatbot using Llama-3 and Azure services."
+excerpt: "A RAG-based Generative AI chatbot using open source models."
 date: 2025-01-01
 layout: single
 author_profile: true
-read_time: true
+read_time: false
 tags: [Generative AI, Azure, Llama-3]
 ---
 
