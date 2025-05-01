@@ -12,14 +12,14 @@ Hello, I'm **Ahmed Ali**, a passionate AI and Data Science practitioner and rese
 - **Hobbies**: I love to travel & photograph Allah's creation 
 
 ###  Experience Highlights 💼
-- **Data Analyst & Trainer** @ [ATS AI Lab](https://www.atsailab.com/) (USA – Remote)    
-- **Microsoft Azure Training Instructor** @ [PAFIAST](https://paf-iast.edu.pk/) (PK - Onsite)
+- Data Analyst & Trainer @ [ATS AI Lab](https://www.atsailab.com/) (USA – Remote)    
+- Microsoft Azure Training Instructor @ [PAF-IAST](https://paf-iast.edu.pk/) (PK - Onsite)
 
 ### Technical Skills 👨🏻‍💻
 - Azure Machine Learning
 - Azure Databricks
 - Azure Administration
-- Machine Learning & Deep Learning (ScikitLearn/Tensorflow/Keras)
+- Machine Learning & Deep Learning
 - Python Programming
 - Data Science and Analytics
 - SQL
