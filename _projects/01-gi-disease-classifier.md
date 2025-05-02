@@ -13,8 +13,8 @@ header:
 The Gastrointestinal Diseases Classifier is a web-based application that uses a fine-tuned InceptionResNetV2 model to classify three gastrointestinal abnormalities (Esophagitis, Polyps, and Ulcerative Colitis) in endoscopic images with 98% accuracy.
 
 ### 🔗 Live App
-You can test the StreamLit app below:
-<iframe src="https://gidiseaseclassifier.streamlit.app/" width="100%" height="600" frameborder="0"></iframe>
+Explore the live Streamlit application here: [GI Disease Classifier](https://gidiseaseclassifier.streamlit.app/).  
+If the app is in sleep mode, click **Yes, get this app back up!** and wait a few moments for it to load.
 
 ### Links
 - [GitHub Repository](https://github.com/byahmedali/GIDiseaseClassifier)
