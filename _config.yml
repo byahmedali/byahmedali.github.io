@@ -21,6 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   This portfolio showcases his hands-on projects, research publications, and training work in applied AI,
   machine learning, and data analytics. Explore how Ahmed builds intelligent, data-driven solutions to
   real-world challenges using modern cloud technologies.
+
+# Important: Add baseurl if your site is in a subdirectory
+baseurl: ""
+url: "https://byahmedali.github.io"  # Replace with your GitHub Pages URL
+
 linkedin_username: byahmedali
 github_username: byahmedali
 minimal_mistakes_skin: air
