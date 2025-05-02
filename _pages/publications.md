@@ -3,7 +3,7 @@ layout: collection
 title: "Publications"
 permalink: /publications/
 collection: publications
-entries_layout: grid
+entries_layout: cards
 classes: wide
 author_profile: true
 ---
