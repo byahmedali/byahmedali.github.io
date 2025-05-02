@@ -11,7 +11,7 @@ header:
 ---
 
 ### Project Overview 📊
-Chicago Traffic Tracker is a data analytics project aimed at uncovering semi-real-time congestion trends in the city of Chicago. By leveraging traffic sensor data provided by the Chicago Department of Transportation, we extracted insights that can support transportation planning, mobility improvements, and smarter city infrastructure The objective is to classify and analyze congestion levels using segment-based speed data from bus-mounted traffic sensors.
+Chicago Traffic Tracker is a data analytics project aimed at uncovering semi-real-time congestion trends in the city of Chicago. By leveraging traffic sensor data provided by the Chicago Department of Transportation, we extracted insights that can support transportation planning, mobility improvements, and smarter city infrastructure. The objective is to classify and analyze congestion levels using segment-based speed data from bus-mounted traffic sensors.
 
 ### Dataset 🗂️
 The project utilizes the **Chicago Traffic Tracker – Congestion Estimates by Segments** dataset. Key features include:
