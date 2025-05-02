@@ -29,6 +29,11 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Favicon configuration
 site_favicon: /favicon.ico
 
@@ -49,10 +54,6 @@ collections:
 include:
   - _pages
 
-# Custom styles
-sass:
-  style: compressed
-
 # Add this line to include your custom stylesheet
 assets:
   css:
@@ -69,10 +70,6 @@ assets:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Add custom CSS
-head_scripts:
-  - /assets/css/custom.css
 
 # Plugins (previously gems:)
 plugins:
