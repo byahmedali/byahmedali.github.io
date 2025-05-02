@@ -5,6 +5,7 @@ layout: single
 collection: projects
 permalink: /projects/gi-disease-classifier/
 author_profile: true
+show_pagination: false
 header:
   teaser: /assets/images/teaser-p1.png
 ---
