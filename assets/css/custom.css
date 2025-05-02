@@ -1,19 +1,30 @@
-/* Change the base font size */
+/* Base font size adjustment */
 html {
-    font-size: 10px; /* Default is 16px */
-  }
-  
-  /* Optional: Adjust headers, paragraphs, etc. */
-  body {
-    font-size: 1rem;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    line-height: 1.4;
-  }
+  font-size: 14px; /* Reduced from default 16px */
+}
 
-/* Set color of all Font Awesome icons in author and footer links */
+/* Scale text appropriately */
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.4rem; }
+h4 { font-size: 1.2rem; }
+
+/* Set consistent dark grey color for all Font Awesome icons */
+.fab, .fas, .far, .fa, 
+.social-icons .fa,
 .page__footer .fa,
-.author__urls .fa {
-  color: #1e1e1e !important; /* Dark grey */
+.author__urls .fa,
+.author__urls-wrapper .fa {
+  color: #1d1d1d !important; /* Dark grey color */
+}
+
+/* Ensure icon colors in footer and author sidebar */
+.page__footer-follow .social-icons .svg-inline--fa,
+.author__urls.social-icons .svg-inline--fa {
+  color: #1d1d1d !important;
 }

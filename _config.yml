@@ -28,6 +28,10 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
+# Favicon configuration
+site_favicon: /favicon.ico
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -65,6 +69,10 @@ assets:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Add custom CSS
+head_scripts:
+  - /assets/css/custom.css
 
 # Plugins (previously gems:)
 plugins:
