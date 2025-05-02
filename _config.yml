@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Important: Add baseurl if your site is in a subdirectory
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://byahmedali.github.io"  # the base hostname & protocol
-favicon: favicon.ico
 
 linkedin_username: byahmedali
 github_username: byahmedali
@@ -40,9 +39,6 @@ remote_theme: mmistakes/minimal-mistakes
 sass:
   sass_dir: _sass
   style: compressed
-
-# Favicon configuration
-site_favicon: /favicon.ico
 
 # Outputting
 permalink: /:categories/:title/
