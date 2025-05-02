@@ -1,8 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: 👋 Welcome to my personal website!
-
+title: 👋 Welcome to my Portfolio Website!
 ---
 
 ### About me 👨🏻‍💻
