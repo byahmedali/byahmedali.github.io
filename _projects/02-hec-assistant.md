@@ -1,5 +1,5 @@
 ---
-title: "HEC Chat Assistant"
+title: "HEC Assistant"
 excerpt: "A Streamlit-based chatbot application that provides information about Pakistan's Higher Education Commission (HEC) services and policies."
 layout: single
 collection: projects
