@@ -25,7 +25,6 @@ linkedin_username: byahmedali
 github_username: byahmedali
 minimal_mistakes_skin: air
 search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
