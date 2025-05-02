@@ -1,6 +1,6 @@
 /* Base font size adjustment */
 html {
-  font-size: 14px; /* Reduced from default 16px */
+  font-size: 14px;
 }
 
 /* Scale text appropriately */
@@ -15,16 +15,17 @@ h3 { font-size: 1.4rem; }
 h4 { font-size: 1.2rem; }
 
 /* Set consistent dark grey color for all Font Awesome icons */
-.fab, .fas, .far, .fa, 
-.social-icons .fa,
-.page__footer .fa,
-.author__urls .fa,
-.author__urls-wrapper .fa {
-  color: #1d1d1d !important; /* Dark grey color */
+.page__content .social-icons .fa-brands,
+.page__content .social-icons .fa-solid,
+.page__footer .social-icons .fa-brands,
+.page__footer .social-icons .fa-solid,
+.author__urls.social-icons .fa-brands,
+.author__urls.social-icons .fa-solid {
+  color: #424242 !important;
 }
 
-/* Ensure icon colors in footer and author sidebar */
-.page__footer-follow .social-icons .svg-inline--fa,
-.author__urls.social-icons .svg-inline--fa {
-  color: #1d1d1d !important;
+/* Ensure icon colors in specific locations */
+.author__urls.social-icons a,
+.page__footer .social-icons a {
+  color: #424242 !important;
 }
