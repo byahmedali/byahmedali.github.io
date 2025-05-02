@@ -19,4 +19,3 @@ Coming soon.
 ### ✅ Acknowledgements
 - This project has been completed as a learning project in collaboration with an undergrad student, Maryam Naz.
 - Source document and HEC logos used in the demo app are owned by HEC.
----
