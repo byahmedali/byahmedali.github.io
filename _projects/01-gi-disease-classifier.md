@@ -9,7 +9,9 @@ show_pagination: false
 header:
   teaser: /assets/images/teaser-p1.png
 ---
+
 ![GI Disease Classifier](/assets/images/teaser-p1.png)
+
 ### Project Overview 📊
 The Gastrointestinal Diseases Classifier is a web-based application that uses a fine-tuned InceptionResNetV2 model to classify three gastrointestinal abnormalities (Esophagitis, Polyps, and Ulcerative Colitis) in endoscopic images with 98% accuracy.
 
