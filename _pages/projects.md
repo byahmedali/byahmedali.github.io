@@ -8,4 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-Here’s a collection of my featured projects. Click on any project to dive into detailed descriptions and live demonstrations.
+Here’s a collection of my featured projects. Click on any project for more details and live demonstrations.
