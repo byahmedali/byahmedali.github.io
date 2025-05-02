@@ -5,6 +5,7 @@ layout: single
 collection: projects
 permalink: /projects/hec-chat-assistant/
 author_profile: true
+show_pagination: false
 header:
   teaser: /assets/images/teaser-p2.png
 ---

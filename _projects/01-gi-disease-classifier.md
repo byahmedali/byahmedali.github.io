@@ -15,7 +15,6 @@ The Gastrointestinal Diseases Classifier is a web-based application that uses a 
 ### Live App 🔗
 Explore the live Streamlit application here: [GI Disease Classifier](https://gidiseaseclassifier.streamlit.app/). If the app is in sleep mode, click **Yes, get this app back up!** and wait a few moments for it to load.
 
-### Links 📎
+### Links 🔗
 - [GitHub Repository](https://github.com/byahmedali/GIDiseaseClassifier)
 - [Research Paper](https://peerj.com/articles/cs-2587/)
----
