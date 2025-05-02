@@ -28,6 +28,7 @@ We used Microsoft Power BI for data ingestion, transformation, and interactive v
 - **Data Ingestion:** OData feed connected directly to Power BI
 - **Transformation:** Power Query for filtering, reshaping, and cleaning
 - **Visualization:** Custom route map visual to display congestion by segment
+
 ![Chicago Traffic Tracker - Workflow](/assets/images/workflow-p4.png)
 
 ### Live Dashboard 🔗
