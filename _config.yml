@@ -23,13 +23,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   real-world challenges using modern cloud technologies.
 
 # Important: Add baseurl if your site is in a subdirectory
-baseurl: ""
-url: "https://byahmedali.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://byahmedali.github.io"  # the base hostname & protocol
+favicon: favicon.ico
 
 linkedin_username: byahmedali
 github_username: byahmedali
 minimal_mistakes_skin: air
 search: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
