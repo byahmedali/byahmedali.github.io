@@ -87,10 +87,10 @@ author:
   name   : "Ahmed Ali"
   avatar : "/assets/images/profile.jpg"
   bio    : |
-    AI & Data Science Professional
-    Microsoft Certified Azure Data Scientist & Administrator
-    Power BI Data Analyst & Trainer
-    Traveler & Photographer
+    AI & Data Science Professional,
+    Microsoft Certified: Azure Data Scientist & Administrator,
+    Power BI Data Analyst & Trainer,
+    Traveler & Photographer.
   links:
   - label: "LinkedIn"
     icon: "fa-brands fa-linkedin" 
