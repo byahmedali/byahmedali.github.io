@@ -1,0 +1,13 @@
+/* Change the base font size */
+html {
+    font-size: 10px; /* Default is 16px */
+  }
+  
+  /* Optional: Adjust headers, paragraphs, etc. */
+  body {
+    font-size: 1rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4;
+  }  

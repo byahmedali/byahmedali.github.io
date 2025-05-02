@@ -45,6 +45,15 @@ collections:
 include:
   - _pages
 
+# Custom styles
+sass:
+  style: compressed
+
+# Add this line to include your custom stylesheet
+assets:
+  css:
+    - /assets/css/custom.css
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
