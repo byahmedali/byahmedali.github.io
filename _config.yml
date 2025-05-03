@@ -85,7 +85,7 @@ plugins:
 
 author:
   name   : "Ahmed Ali"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/profile.jpg"~
   bio    : "AI & Data Science Professional • Microsoft Certified: Azure Data Scientist & Administrator • Power BI Data Analyst & Trainer • Traveler & Photographer"
   links:
   - label: "LinkedIn"
@@ -101,7 +101,7 @@ author:
     icon: "fa-solid fa-envelope"
     url: "mailto:byahmedali@gmail.com"
   - label: "Instagram"
-    icon: "fa-brands fa-instagram"
+    icon: "fa-brands fa-square-instagram"
     url: "https://www.instagram.com/byahmedali/"
 
 
@@ -120,7 +120,7 @@ footer:
     icon: "fa-solid fa-envelope"
     url: "mailto:byahmedali@gmail.com"
   - label: "Instagram"
-    icon: "fa-brands fa-instagram"
+    icon: "fa-brands fa-square-instagram"
     url: "https://www.instagram.com/byahmedali/"
 
 
