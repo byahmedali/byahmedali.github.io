@@ -19,8 +19,8 @@ tagline: "Building Intelligent Data-Driven Solutions"
 description: "Ahmed Ali is an AI and Data Science professional with expertise in Microsoft Azure, Python, and Power BI.
   This portfolio showcases his hands-on projects, research publications, and training work in applied AI,
   machine learning, and data analytics. Explore how Ahmed builds intelligent, data-driven solutions to
-  real-world challenges using modern cloud technologies."
-image: "/assets/images/preview.png"
+  real-world challenges."
+teaser: "/assets/images/preview.png" 
 url: "https://byahmedali.github.io"
 linkedin_username: "byahmedali"
 github_username: "byahmedali"
