@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: 👋 Welcome to my Portfolio Website!
 classes: wide
+teaser: "/assets/images/preview.png" 
 ---
 
 ### About me 👨🏻‍💻

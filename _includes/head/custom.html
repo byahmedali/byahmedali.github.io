@@ -4,6 +4,20 @@
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
+<!-- Social Media Meta Tags -->
+<!-- Open Graph -->
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:image" content="{{ site.url }}{{ site.teaser }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta property="og:type" content="website">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.teaser }}">
+
 <!-- Custom CSS - Load after theme CSS -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}?v={{ site.time | date:'%s' }}">
 
