@@ -5,7 +5,7 @@ layout: single
 collection: projects
 permalink: /projects/usa-national-transit/
 author_profile: true
-show_pagination: false
+toc: true
 header:
   teaser: /assets/images/teaser-p3.png
 ---

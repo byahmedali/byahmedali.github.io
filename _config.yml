@@ -13,38 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: byAhmedAli
-email: byahmedali@gmail.com
-tagline: Building Intelligent Data-Driven Solutions
-description: >- # this means to ignore newlines until "baseurl:"
-  Ahmed Ali is an AI and Data Science professional with expertise in Microsoft Azure, Python, and Power BI.
+title: ""
+email: "byahmedali@gmail.com"
+tagline: "Building Intelligent Data-Driven Solutions"
+description: "Ahmed Ali is an AI and Data Science professional with expertise in Microsoft Azure, Python, and Power BI.
   This portfolio showcases his hands-on projects, research publications, and training work in applied AI,
   machine learning, and data analytics. Explore how Ahmed builds intelligent, data-driven solutions to
-  real-world challenges using modern cloud technologies.
-
-# Important: Add baseurl if your site is in a subdirectory
-baseurl: ""  # the subpath of your site, e.g. /blog
-url: "https://byahmedali.github.io"  # the base hostname & protocol
-
-linkedin_username: byahmedali
-github_username: byahmedali
-minimal_mistakes_skin: air
+  real-world challenges using modern cloud technologies."
+url: "https://byahmedali.github.io"
+linkedin_username: "byahmedali"
+github_username: "byahmedali"
+minimal_mistakes_skin: "dark" # "air", "mint"
 search: true
+markdown: "kramdown"
+remote_theme: "mmistakes/minimal-mistakes"
+locale: "en-US"
+timezone: Asia/Karachi
+repository: "byahmedali/byahmedali.github.io"
+logo: "/assets/images/byahmedaliwhite.png"
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
-
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 collections:
   projects:
@@ -57,7 +50,6 @@ collections:
 include:
   - _pages
 
-# Add this line to include your custom stylesheet
 assets:
   css:
     - /assets/css/custom.css
@@ -74,7 +66,6 @@ assets:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
