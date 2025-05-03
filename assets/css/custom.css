@@ -16,28 +16,28 @@ h4 { font-size: 1.4rem; }
 
 /* Set consistent color for all Font Awesome icons */
 .page__content .social-icons .fa-brands,
-.page__content .social-icons .fa-solid,
-.page__footer .social-icons .fa-brands,
-.page__footer .social-icons .fa-solid,
+.page__content .social-icons .fa-solid {
+  color: #048b90 !important;
+}
+
+/* Separate icon colors for author-profile section */
 .author__urls.social-icons .fa-brands,
 .author__urls.social-icons .fa-solid {
   color: #048b90 !important;
 }
 
-/* Ensure icon colors in specific locations */
-.author__urls.social-icons a{
-  color: #048b90 !important;
-}
-
-.page__footer.social-icons a {
+/* Separate icon colors for footer */
+.page__footer .social-icons .fa-brands,
+.page__footer .social-icons .fa-solid {
   color: #ffffff !important;
 }
 
-.page__footer{
+.page__footer {
   background-color: #11999e;
 }
 
-/* Add hover effect for social icons
+/* Add hover effect for social icons */
+/* Uncomment and customize if needed
 .social-icons a:hover {
   transform: scale(1.02);
   transition: transform 0.2s ease;
