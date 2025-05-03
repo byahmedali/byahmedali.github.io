@@ -19,5 +19,5 @@ HEC Assistant is a Generative AI-powered chatbot designed to responsd to user qu
 Coming soon.
 
 ### Acknowledgements ✅
-- This is learning project, and has been developed in collaboration with an undergrad student, Maryam Naz.
-- Source document and HEC logos used in the demo app are owned by HEC.
+- This is a learning project, and has been developed in collaboration with an undergraduate student, Maryam Naz.
+- Source documents and HEC logos used in the demonstration app are owned by HEC.
