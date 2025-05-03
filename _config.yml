@@ -23,14 +23,14 @@ description: "Ahmed Ali is an AI and Data Science professional with expertise in
 url: "https://byahmedali.github.io"
 linkedin_username: "byahmedali"
 github_username: "byahmedali"
-minimal_mistakes_skin: "dark" # "air", "mint"
+minimal_mistakes_skin: "mint" # "air", "mint", "dark", "neon"
 search: true
 markdown: "kramdown"
 remote_theme: "mmistakes/minimal-mistakes"
 locale: "en-US"
 timezone: Asia/Karachi
 repository: "byahmedali/byahmedali.github.io"
-logo: "/assets/images/byahmedaliwhite.png"
+logo: "/assets/images/byahmedaliblack.png"
 
 sass:
   sass_dir: _sass
