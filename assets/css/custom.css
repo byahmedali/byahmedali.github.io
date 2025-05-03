@@ -25,9 +25,12 @@ h4 { font-size: 1.4rem; }
 }
 
 /* Ensure icon colors in specific locations */
-.author__urls.social-icons a,
-.page__footer .social-icons a {
+.author__urls.social-icons a{
   color: #11999e !important;
+}
+
+.page__footer .social-icons a {
+  color: #003335 !important;
 }
 
 /* Add hover effect for social icons
