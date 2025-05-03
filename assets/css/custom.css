@@ -26,10 +26,10 @@ h4 { font-size: 1.4rem; }
 
 /* Ensure icon colors in specific locations */
 .author__urls.social-icons a{
-  color: #ffffff !important;
+  color: #048b90 !important;
 }
 
-.page__footer .social-icons a {
+.page__footer.social-icons a {
   color: #ffffff !important;
 }
 
