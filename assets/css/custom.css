@@ -21,12 +21,12 @@ h4 { font-size: 1.4rem; }
 .page__footer .social-icons .fa-solid,
 .author__urls.social-icons .fa-brands,
 .author__urls.social-icons .fa-solid {
-  color: #11999e !important;
+  color: #048b90 !important;
 }
 
 /* Ensure icon colors in specific locations */
 .author__urls.social-icons a{
-  color: #11999e !important;
+  color: #048b90 !important;
 }
 
 .page__footer .social-icons a {
