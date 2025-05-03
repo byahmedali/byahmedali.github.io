@@ -31,7 +31,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 locale: "en-US"
 timezone: Asia/Karachi
 repository: "byahmedali/byahmedali.github.io"
-logo: "/assets/images/byahmedaliblack.png"
+logo: "/assets/images/byahmedaliteal.png"
 
 sass:
   sass_dir: _sass
