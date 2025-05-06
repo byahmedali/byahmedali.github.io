@@ -34,12 +34,3 @@ h3 { font-size: 1.6rem; }
 .page__footer {
   background-color: #11999e;
 }
-
-/* Add hover effect for social icons */
-/* Uncomment and customize if needed
-.social-icons a:hover {
-  transform: scale(1.02);
-  transition: transform 0.2s ease;
-  color: #000000 !important;
-}
-*/
