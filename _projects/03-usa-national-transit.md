@@ -18,6 +18,8 @@ This project presents an interactive Power BI dashboard built from the [National
 - **Azure Databricks** – Used for large-scale data preprocessing and transformation.
 - **Microsoft Excel** – Employed for supplemental data cleanup and integration.
 
+![USA National Transit Data - Workflow](/assets/images/workflow-p3.png)
+
 ### Live Dashboard 🔗
 You can interact with the live dashboard below:
 
