@@ -1,12 +1,12 @@
 /* Base font size adjustment */
 html {
-  font-size: 16px; /* Increase base font size */
+  font-size: 15px; /* Increase base font size */
 }
 
 /* Scale text appropriately */
 body {
   font-size: 1.2rem;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 h1 { font-size: 2rem; }
