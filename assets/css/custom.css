@@ -5,13 +5,13 @@ html {
 
 /* Scale text appropriately */
 body {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
-h1 { font-size: 2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.2rem; }
 
 /* Set consistent color for all Font Awesome icons */
 .page__content .social-icons .fa-brands,
