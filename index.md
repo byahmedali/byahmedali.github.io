@@ -27,10 +27,10 @@ Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Paki
 - Linux & Bash
 
 ### Certifications 🎖️
-- Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AhmedAli-4000/6F5AAA2633D21342?sharingId=701FB4444277579D)
+- Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AhmedAli-4000/6F5AAA2633D21342?sharingId=701FB4444277579D~)
 - Microsoft Certified: [Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AhmedAli-4000/E7812B97B6563068?sharingId=701FB4444277579D)
-- Nvidia DLI: [Fundamentals of Deep Learning](/assets/certs/DeepLearningFundamentals.pdf)
-- Coursera: [SQL for Data Science](/assets/certs/SQL-for-DataScience.pdf)
+- Nvidia DLI: [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=RqzQv9M2SLaqrIvNmTRHLQ)
+- Coursera: [SQL for Data Science](https://coursera.org/share/d544d271357305f2e334e8ebfed2bd59)
 
 ### Languages 🗣️
 - Urdu (Native)
