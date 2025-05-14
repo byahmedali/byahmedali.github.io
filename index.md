@@ -12,19 +12,14 @@ Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Paki
 - **Research Interests**: Applied AI & Data Science, Generative AI, NLP, Computer Vision 🧠
 
 ###  Experience Highlights 💼
-- Data Analyst & Trainer @ [ATS AI Lab](https://www.atsailab.com/) (USA – Remote)    
-- Microsoft Azure Training Instructor @ [PAF-IAST](https://paf-iast.edu.pk/) (PK - Onsite)
+- Data Analyst & Trainer @ ATS AI Lab (USA - Remote)    
+- Microsoft Azure Training Instructor @ PAF-IAST (PK - Onsite)
 
-### Technical Skills 💻
-- Azure Machine Learning
-- Azure Databricks
-- Azure Administration
-- Machine Learning & Deep Learning
-- Python Programming
-- Data Science and Analytics
-- SQL
-- Microsoft Power BI
-- Linux & Bash
+### Technical Skills:
+- **Programming**: Python, SQL, Bash/Linux.
+- **Cloud Platforms & Services**: Microsoft Azure, Machine Learning Studio, Databricks, & Administration.
+- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras.
+- **Data Analytics & Visualization**: Power BI, Tableau, Pandas, Matplotlib, Seaborn.
 
 ### Certifications 🎖️
 - Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AhmedAli-4000/6F5AAA2633D21342?sharingId=701FB4444277579D~)
