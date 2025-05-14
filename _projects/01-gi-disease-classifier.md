@@ -1,6 +1,6 @@
 ---
 title: "GI Disease Classifier"
-excerpt: "A deep learning-powered web application that classifies gastrointestinal diseases from endoscopic images with 98% accuracy."
+excerpt: "A Streamlit web app that uses deep learning model to classifies GI diseases from endoscopic images with 98% accuracy."
 layout: single
 collection: projects
 permalink: /projects/gi-disease-classifier/

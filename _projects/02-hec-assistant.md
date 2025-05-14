@@ -1,6 +1,6 @@
 ---
 title: "HEC Assistant"
-excerpt: "A Streamlit-based chatbot application that provides information about Pakistan's Higher Education Commission (HEC) services and policies."
+excerpt: "A GenAI-powered chat assistant leveraging RAG to deliver accurate, context-aware answers about the services, policies, and programs of HEC Pakistan."
 layout: single
 collection: projects
 permalink: /projects/hec-assistant/
@@ -19,5 +19,5 @@ HEC Assistant is a Generative AI-powered chatbot designed to responsd to user qu
 Coming soon.
 
 ### Acknowledgements ✅
-- This is a learning project, and has been developed in collaboration with an undergraduate student, Maryam Naz.
+- This is a learning project, and has been developed in collaboration with an undergraduate student, [Maryam Naz](https://www.linkedin.com/in/maryam-naz-4350262b7/).
 - Source documents and HEC logos used in the demonstration app are owned by HEC.
