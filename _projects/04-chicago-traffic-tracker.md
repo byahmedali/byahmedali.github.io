@@ -31,7 +31,7 @@ We used Microsoft Power BI for data ingestion, transformation, and interactive v
 
 ![Chicago Traffic Tracker - Workflow](/assets/images/workflow-p4.png)
 
-### Live Dashboard 🔗
+### Live Demo 🔗
 You can interact with the live dashboard below:
 
 <iframe title="US Transit Data" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiYmZkNzExZWEtMjBlNC00NWY5LWI1OWQtOGRjN2NhOTIzNWJhIiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9" frameborder="0" allowFullScreen="true"></iframe>
