@@ -1,11 +1,11 @@
 ---
 layout: collection
-title: "Publications"
-permalink: /publications/
-collection: publications
+title: "Activities"
+permalink: /activities/
+collection: activities
 entries_layout: grid
 classes: wide
 author_profile: true
 ---
 
-Explore my research publications. Click on any publication to access detailed abstracts and full-text links.
+Explore my academic and professional activities. Click on any activity to learn more about my engagements and experiences.
