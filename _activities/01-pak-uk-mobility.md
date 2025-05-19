@@ -25,15 +25,14 @@ This academic and cultural exchange significantly strengthened my research skill
 
 pakuk-gallery:
   - image_path: /assets/photos/pak-uk-mobility/1693394321013.jpeg
-    alt: "Poster Presentation"
-    title: "Presenting My Research"
-    caption: "Photo with my supervisor during poster presentations."
-  - image_path: /assets/photos/pak-uk-mobility/1693394321013.jpeg
-    alt: "Workshop Session"
-    title: "AI Workshop Attendance"
-  - image_path: /assets/images/pakuk/group-photo.jpg
-    alt: "Group Photo"
-    title: "With Research Team"
-  - image_path: /assets/images/pakuk/lab-tour.jpg
-    alt: "Lab Tour"
-    title: "Visiting Robotics Lab"
+    alt: "Research Visit Photo 1"
+    title: "Research Activities"
+    caption: "Engaging in research activities during the visit"
+  - image_path: /assets/photos/pak-uk-mobility/1693394321117.jpeg
+    alt: "Research Visit Photo 2"
+    title: "Academic Exchange"
+    caption: "Knowledge sharing and collaboration"
+  - image_path: /assets/photos/pak-uk-mobility/teaser.jpeg
+    alt: "Research Visit Photo 3"
+    title: "Coventry Experience"
+    caption: "Memorable moments from the mobility program"
