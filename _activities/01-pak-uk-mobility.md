@@ -7,7 +7,7 @@ permalink: /activities/pak-uk-mobility/
 author_profile: true
 toc: true
 header:
-  teaser: /assets/images/teaser-p2.png
+  teaser: /assets/photos/pak-uk-mobility/teaser.jpeg
 ---
 
 ### Overview 🌍  
