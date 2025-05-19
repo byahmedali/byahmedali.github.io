@@ -10,6 +10,9 @@ header:
   teaser: /assets/photos/pak-uk-mobility/teaser.jpeg
 ---
 
+![Ahmed Ali Certificate - CU](/assets/photos/pak-uk-mobility/certificate.png)
+
+
 ### Overview 🌍  
 As part of the **PAK-UK Education Gateway Mobility Partnership for Students**, I was selected as a research student representative from PAF-IAST under a prestigious grant awarded by the British Council and the Higher Education Commission of Pakistan. This opportunity took me to **Coventry, United Kingdom**, in **August 2023**, where I collaborated with leading researchers and professionals in **Artificial Intelligence and Robotics**.
 
