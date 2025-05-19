@@ -20,10 +20,10 @@ Being a beginner in Python at the time, I took this as a real-world challenge an
 ### Demo Video 🎥  
 *Here’s a demo of the script running on the first 50 roll numbers of an ETEA exam:*
 
-<iframe title="ETEA Results Extractor" width="100%" height="380" src="https://drive.google.com/file/d/1FkFfjhvmo6F6fg9T57CRU_N7kUue5rF6/preview" allow="autoplay" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="ETEA Results Extractor" width="100%" height="350" src="https://drive.google.com/file/d/1FkFfjhvmo6F6fg9T57CRU_N7kUue5rF6/preview" allow="autoplay" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### Story Behind the Code 💡  
-This project was more than a script. It was my first hands-on success with using code to solve a personal, real-world problem. It showed me how powerful programming can be when driven by a **clear goal**. What started as curiosity quickly became a productive learning experience.  
+This project was more than a script. It was my first hands-on success with using code to solve a personal, real-world problem. It showed me how powerful programming can be when driven by a clear goal. What started as curiosity quickly became a productive learning experience.  
 
 > "Having a goal in mind really motivates you to work harder and smarter." 🌟 
