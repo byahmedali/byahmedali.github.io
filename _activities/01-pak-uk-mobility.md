@@ -8,6 +8,22 @@ author_profile: true
 toc: true
 header:
   teaser: /assets/photos/pak-uk-mobility/teaser.jpeg
+gallery:
+  - url: /assets/photos/pak-uk-mobility/1693394321013.jpeg
+    image_path: /assets/photos/pak-uk-mobility/1693394321013.jpeg
+    alt: "Research Visit Photo 1"
+    title: "Research Activities"
+    caption: "Engaging in research activities during the visit"
+  - url: /assets/photos/pak-uk-mobility/1693394321117.jpeg
+    image_path: /assets/photos/pak-uk-mobility/1693394321117.jpeg
+    alt: "Research Visit Photo 2"
+    title: "Academic Exchange"
+    caption: "Knowledge sharing and collaboration"
+  - url: /assets/photos/pak-uk-mobility/teaser.jpeg
+    image_path: /assets/photos/pak-uk-mobility/teaser.jpeg
+    alt: "Research Visit Photo 3"
+    title: "Coventry Experience"
+    caption: "Memorable moments from the mobility program"
 ---
 
 ![Ahmed Ali Certificate - CU](/assets/photos/pak-uk-mobility/certificate.png)
@@ -24,18 +40,4 @@ During my time there, I:
 This academic and cultural exchange significantly strengthened my research skills, cross-cultural communication, and professional network.
 
 ### Photo Gallery 📸
-{% include gallery id="pakuk-gallery" caption="Snapshots from the Coventry research visit" %}
-
-pakuk-gallery:
-  - image_path: /assets/photos/pak-uk-mobility/1693394321013.jpeg
-    alt: "Research Visit Photo 1"
-    title: "Research Activities"
-    caption: "Engaging in research activities during the visit"
-  - image_path: /assets/photos/pak-uk-mobility/1693394321117.jpeg
-    alt: "Research Visit Photo 2"
-    title: "Academic Exchange"
-    caption: "Knowledge sharing and collaboration"
-  - image_path: /assets/photos/pak-uk-mobility/teaser.jpeg
-    alt: "Research Visit Photo 3"
-    title: "Coventry Experience"
-    caption: "Memorable moments from the mobility program"
+{% include gallery caption="Snapshots from the Coventry research visit" %}
