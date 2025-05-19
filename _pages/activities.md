@@ -1,6 +1,9 @@
 ---
+layout: activities
 title: "Activities"
 permalink: /activities/
-layout: posts
+collection: activities
+entries_layout: posts
+classes: wide
 author_profile: true
 ---

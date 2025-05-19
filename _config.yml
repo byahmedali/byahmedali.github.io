@@ -47,6 +47,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:path/
+  activities:
+    output: true
+    permalink: /activities/:path/
 
 include:
   - _pages
