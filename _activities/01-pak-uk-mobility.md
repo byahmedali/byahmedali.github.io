@@ -7,7 +7,7 @@ permalink: /activities/pak-uk-mobility/
 author_profile: true
 toc: true
 header:
-  teaser: /assets/photos/pak-uk-mobility/teaser.jpeg
+  teaser: /assets/photos/pak-uk-mobility/1693394321013.jpeg
 gallery:
   - url: /assets/photos/pak-uk-mobility/1693394321013.jpeg
     image_path: /assets/photos/pak-uk-mobility/1693394321013.jpeg
