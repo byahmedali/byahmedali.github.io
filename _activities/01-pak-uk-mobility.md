@@ -7,50 +7,50 @@ permalink: /activities/pak-uk-mobility/
 author_profile: true
 toc: true
 header:
-  teaser: /assets/photos/pak-uk-mobility/00.jpeg
+  teaser: /assets/photos/pak-uk-mobility/00.webp
 gallery:
-  - url: /assets/photos/pak-uk-mobility/00.jpeg
-    image_path: /assets/photos/pak-uk-mobility/00.jpeg
+  - url: /assets/photos/pak-uk-mobility/00.webp
+    image_path: /assets/photos/pak-uk-mobility/00.webp
     alt: "Opening Session"
     title: "Opening Session"
     caption: "Kickoff of the PAK-UK Mobility Program."
-  - url: /assets/photos/pak-uk-mobility/01.jpg
-    image_path: /assets/photos/pak-uk-mobility/01.jpg
+  - url: /assets/photos/pak-uk-mobility/01.webp
+    image_path: /assets/photos/pak-uk-mobility/01.webp
     alt: "Visit to NTDC"
     title: "Visit to National Transport Design Centre (NTDC)"
     caption: "Exploring innovative transport design at NTDC."
-  - url: /assets/photos/pak-uk-mobility/02.jpg
-    image_path: /assets/photos/pak-uk-mobility/02.jpg
+  - url: /assets/photos/pak-uk-mobility/02.webp
+    image_path: /assets/photos/pak-uk-mobility/02.webp
     alt: "Visit to AVAILab"
     title: "Visit to Autonomous Vehicles & Artificial Intelligence Laboratory (AVAILab)"
     caption: "Learning about autonomous vehicles and AI research."
-  - url: /assets/photos/pak-uk-mobility/03.jpg
-    image_path: /assets/photos/pak-uk-mobility/03.jpg
+  - url: /assets/photos/pak-uk-mobility/03.webp
+    image_path: /assets/photos/pak-uk-mobility/03.webp
     alt: "Poster Presentation"
     title: "Research Poster Presentation"
     caption: "With my supervisor, Dr. Arshad Iqbal, during the poster session."
-  - url: /assets/photos/pak-uk-mobility/04.jpg
-    image_path: /assets/photos/pak-uk-mobility/04.jpg
+  - url: /assets/photos/pak-uk-mobility/04.webp
+    image_path: /assets/photos/pak-uk-mobility/04.webp
     alt: "Coventry Cathedral Group Photo"
     title: "With Researchers at Coventry Cathedral"
     caption: "With a fellow researcher and faculty members in front of Coventry Cathedral."
-  - url: /assets/photos/pak-uk-mobility/05.jpg
-    image_path: /assets/photos/pak-uk-mobility/05.jpg
+  - url: /assets/photos/pak-uk-mobility/05.webp
+    image_path: /assets/photos/pak-uk-mobility/05.webp
     alt: "Prof. Elena's Session"
     title: "Prof. Elena's Session on Transdisciplinary Education"
     caption: "Attending Prof. Elena's insightful session."
-  - url: /assets/photos/pak-uk-mobility/06.jpg
-    image_path: /assets/photos/pak-uk-mobility/06.jpg
+  - url: /assets/photos/pak-uk-mobility/06.webp
+    image_path: /assets/photos/pak-uk-mobility/06.webp
     alt: "Beatrice Shilling Tour 1"
     title: "Beatrice Shilling Tour"
     caption: "Touring the Beatrice Shilling building."
-  - url: /assets/photos/pak-uk-mobility/07.jpeg
-    image_path: /assets/photos/pak-uk-mobility/07.jpeg
+  - url: /assets/photos/pak-uk-mobility/07.webp
+    image_path: /assets/photos/pak-uk-mobility/07.webp
     alt: "Beatrice Shilling Tour 2"
     title: "Beatrice Shilling Tour"
     caption: "Another moment from the Beatrice Shilling tour."
-  - url: /assets/photos/pak-uk-mobility/08.jpg
-    image_path: /assets/photos/pak-uk-mobility/08.jpg
+  - url: /assets/photos/pak-uk-mobility/08.webp
+    image_path: /assets/photos/pak-uk-mobility/08.webp
     alt: "With PGRs"
     title: "With Fellow Post Graduate Researchers (PGRs)"
     caption: "Group photo with fellow PGRs."
