@@ -7,7 +7,7 @@ permalink: /activities/powerbi-intro-workshop/
 author_profile: true
 toc: true
 header:
-  teaser: /assets/photos/power-bi-intro/3.webp
+  teaser: /assets/photos/power-bi-intro/teaser.webp
 gallery:
   - url: /assets/photos/power-bi-intro/1.webp
     image_path: /assets/photos/power-bi-intro/1.webp

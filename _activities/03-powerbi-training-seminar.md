@@ -1,5 +1,5 @@
 ---
-title: "Power BI Training Seminar"
+title: "Power BI for Next-Gen Data Visualization and Decision-Making"
 excerpt: "A hands-on training seminar on Power BI for data-driven decision-making through interactive visuals."
 layout: single
 collection: activities
