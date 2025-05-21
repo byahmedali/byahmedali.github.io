@@ -1,5 +1,5 @@
 ---
-title: "Power BI for Next-Gen Data Visualization"
+title: "Power BI Training Seminar"
 excerpt: "A hands-on training seminar on Power BI for data-driven decision-making through interactive visuals."
 layout: single
 collection: activities
@@ -7,7 +7,7 @@ permalink: /activities/powerbi-training-seminar/
 author_profile: true
 toc: true
 header:
-  teaser: /assets/photos/power-bi-seminar/flyer.jpg
+  teaser: /assets/photos/power-bi-seminar/5.webp
 gallery:
   - url: /assets/photos/power-bi-seminar/1.webp
     image_path: /assets/photos/power-bi-seminar/1.webp
@@ -27,9 +27,9 @@ gallery:
 
 ### Overview 📊
 
-A hands-on training seminar on Power BI for data-driven decision-making through interactive visualizations, organized by SBEPD, PAF-IAST.
+A hands-on training seminar on Power BI for data-driven decision-making through interactive visualizations, organized by SBEPD, PAF-IAST. The session featured a hands-on demonstration that began with the fundamentals of data visualization and progressed through an end-to-end example, showcasing a variety of features available in Microsoft Power BI. Participants learned how to transform data using Power Query, and create interactive visual data reports and dashboards, gaining practical experience in leveraging Power BI for insightful analytics.
 
-### Distinguished Speakers 👥
+### Speakers 👥
 - **Dr. Omer Mehmood** - Chief Organizer & Speaker, Assistant Professor, SBEPD, PAF-IAST
 - **Dr. Muhammad Zeeshan** - Guest Speaker, Chief Scientist, AI Division, ATS, WA USA
 - **Mr. Ahmed Ali** - Guest Speaker, Data Analyst, ATS, WA USA
