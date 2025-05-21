@@ -19,11 +19,11 @@ gallery:
 
 ![Power BI Workshop Flyer](/assets/photos/power-bi-intro/flyer.jpg)
 
+> This was my very first session as guest speaker.
+
 ### Overview 📊
 
 A hands-on training session on Power BI for data-driven decision-making through interactive visualizations, organized by AI Society, PAF-IAST. The session featured a hands-on demonstration that began with the fundamentals of data visualization and progressed through an end-to-end example, showcasing a variety of features available in Microsoft Power BI. Participants learned how to transform data using Power Query, and create interactive visual data reports and dashboards, gaining practical experience in using Power BI for insightful analytics.
-
-> This was my very first session as guest speaker.
 
 ### Acknowledgements ✅
 - Dr. Arshad Iqbal
