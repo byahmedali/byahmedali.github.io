@@ -27,9 +27,7 @@ gallery:
 
 ### Overview 📊
 
-A hands-on training seminar titled *Supercharge Your Insights: Power BI for Next-Gen Data Visualization and Decision-Making* was organized by SBEPD, PAF-IAST. Students had an 
-
-on Power BI for data-driven decision-making through interactive visuals.A comprehensive seminar  The event featured expert speakers from both academia and industry, providing valuable insights into modern data visualization techniques using Power BI.
+A hands-on training seminar on Power BI for data-driven decision-making through interactive visualizations, organized by SBEPD, PAF-IAST.
 
 ### Distinguished Speakers 👥
 - **Dr. Omer Mehmood** - Chief Organizer & Speaker, Assistant Professor, SBEPD, PAF-IAST
