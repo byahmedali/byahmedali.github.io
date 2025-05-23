@@ -30,4 +30,4 @@ You can interact with the live dashboard below:
 <iframe title="Global Renewable Energy Trends" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiZGVjNGE0ZWUtODE4OC00YzFjLWFkOGMtZmFiNmNjN2VkNDBkIiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9&pageName=9ce39514375312868e4b" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Acknowledgement ✅
-This project is a freelance work.
+This project was a freelance work.
