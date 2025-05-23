@@ -19,6 +19,11 @@ The project leverages Microsoft Power BI for comprehensive data analysis and vis
 - **Analysis:** DAX measures for calculating energy distributions and trends
 - **Visualization:** Power BI built-in visuals
 
+### Tools 🛠
+- **Microsoft Power BI** for dashboard development
+- **Power Query** for data cleaning and transformation
+- **DAX** for advanced calculations
+
 ### Live Demo 🔗
 You can interact with the live dashboard below:
  
