@@ -23,7 +23,7 @@ This project presents an interactive Power BI visual report built from the [Nati
 ### Live Demo 🔗
 You can interact with the live report below:
 
-<iframe title="US Transit Data" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiNjY1Zjg5ZTQtYzkzMC00NTlmLWI1YjItNDVmMDg0ZmRlODE4IiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="US Transit Data" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjY1Zjg5ZTQtYzkzMC00NTlmLWI1YjItNDVmMDg0ZmRlODE4IiwidCI6IjQxOWY3MTFlLTE2NDktNDA0Mi05YmIxLWRiNTc2ODk0ZDFhOSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Acknowledgement ✅
 This project is a part of [ATS](https://www.atsailab.com/)'s projects catalog, and has been developed in collaboration with my colleague, [Abdur Rehman](https://www.linkedin.com/in/abdur-mani-rehman).
