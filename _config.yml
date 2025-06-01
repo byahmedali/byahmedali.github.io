@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#title: "Ahmed Ali"
 email: "byahmedali@gmail.com"
 tagline: "Building Intelligent Data-Driven Solutions"
 description: "Ahmed Ali is an AI and Data Science practitioner with expertise in Microsoft Azure, Python, and Power BI.
@@ -32,7 +33,6 @@ locale: "en-US"
 timezone: Asia/Karachi
 repository: "byahmedali/byahmedali.github.io"
 logo: "/assets/images/byahmedaliteal.png"
-title: "Ahmed Ali"
 
 sass:
   sass_dir: _sass
