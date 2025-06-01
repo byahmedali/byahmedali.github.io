@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: "Ahmed Ali"
+title: ""
 email: "byahmedali@gmail.com"
 tagline: "Building Intelligent Data-Driven Solutions"
 description: "Ahmed Ali is an AI and Data Science practitioner with expertise in Microsoft Azure, Python, and Power BI.
