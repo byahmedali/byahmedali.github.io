@@ -82,7 +82,7 @@ plugins:
 author:
   name   : "Ahmed Ali"
   avatar : "/assets/images/profile.jpg"
-  bio    : "AI & Data Science Professional • Microsoft Certified: Azure Data Scientist & Administrator • Power BI Data Analyst & Trainer"
+  bio    : "AI & Data Science Practitioner • Microsoft Certified: Azure Data Scientist & Administrator • Power BI Data Analyst & Trainer"
   links:
   - label: "LinkedIn"
     icon: "fa-brands fa-linkedin" 

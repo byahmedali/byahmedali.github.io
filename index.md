@@ -30,3 +30,7 @@ Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Paki
 ### Languages 🗣️
 - Urdu (Native)
 - English (C1)
+
+### Miscellaneous
+- I am also a hobbyist traveler and nature photographer 🏔📸
+- Check out my Instagram [@byahmedali](https://www.instagram.com/byahmedali/).
