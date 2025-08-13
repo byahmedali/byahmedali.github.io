@@ -7,7 +7,7 @@ teaser: "/assets/images/preview.png"
 ---
 
 ### About me 👨🏻‍💻
-Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Pakistan. I provide intelligent data-driven solutions to the societal problems. Currently working as a Data Analyst at [ATS AI Lab](https://www.atsailab.com/).
+Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Pakistan. I provide intelligent data-driven solutions to the societal problems. Currently working in (Gen) AI & Data Analytics at [ATS AI Lab](https://www.atsailab.com/).
 - **Qualification**: MS in Artificial Intelligence from [PAF-IAST](https://paf-iast.edu.pk/) (CGPA: 3.92/4.0) 🎓
 - **Research Interests**: Applied AI & Data Science, Generative AI, NLP, Computer Vision 🧠
 
