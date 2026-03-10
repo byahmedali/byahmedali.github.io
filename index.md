@@ -12,7 +12,8 @@ Hi, I'm a passionate Data & AI practitioner and researcher from Abbottabad, Paki
 - **Research Interests**: Applied AI & Data Science, Generative AI, NLP, Computer Vision 🧠
 
 ###  Experience Highlights 💼
-- Data Analyst & Trainer @ ATS AI Lab (USA - Remote)    
+- Data Analyst & Trainer @ ATS AI Lab (USA - Remote)
+- Visiting Lecturer @ COMSATS Abbottabad (PK - Onsite)
 - Microsoft Azure Training Instructor @ PAF-IAST (PK - Onsite)
 
 ### Technical Skills:
