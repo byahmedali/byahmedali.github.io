@@ -17,7 +17,7 @@ Hi, I'm a passionate Data Science & AI practitioner, teacher and researcher from
 - Microsoft Azure Training Instructor @ PAF-IAST (PK - Onsite)
 
 ### Technical Skills:
-- **Programming**: Python, Java, SQL, Bash/Linux.
+- **Programming**: Python, Java, SQL, Bash/Linux, Dart.
 - **Cloud Platforms & Services**: Microsoft Azure, Machine Learning Studio, Databricks, & Administration.
 - **Generative AI**: LLM Chatbots, Prompt Engineering, Retrieval-Augmented Generation.
 - **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras.
